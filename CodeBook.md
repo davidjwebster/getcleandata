@@ -19,6 +19,8 @@ This is the Code Book describing the process used to clean the 'Human Activity R
 
 The first row of the table contains the variable labels. The columns are as follows:
 
-1. Activity ('LAYING','SITTING','STANDING','WALKING','WALKING DOWNSTAIRS','WALKING UPSTAIRS')
-2. subject (1-30)
-3.-88. The data variables corresponding to the mean and standard deviation in three dimensions as described in features_info.txt (provided in the raw data download and also in this repo).
+Column 1 - Activity ('LAYING','SITTING','STANDING','WALKING','WALKING DOWNSTAIRS','WALKING UPSTAIRS')
+
+Column 2 - Subject (1-30)
+
+Columns 3-88. The data variables corresponding to the mean and standard deviation in three dimensions as described in features_info.txt (provided in the raw data download and also in this repo).
